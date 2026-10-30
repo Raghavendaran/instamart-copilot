@@ -1,0 +1,3 @@
+{"scenario_id": "S1", "order_id": "ORD-100048", "customer_id": "C0007", "refund_inr": 128.25, "outcome": "REFUND", "approved": true, "escalated": false}
+{"scenario_id": "S2", "order_id": "ORD-100067", "customer_id": "C0008", "refund_inr": 135.0, "outcome": "REFUND", "approved": true, "escalated": false}
+{"scenario_id": "S3", "order_id": "ORD-100145", "customer_id": "C0016", "refund_inr": 1999.0, "outcome": "ESCALATE", "approved": false, "escalated": true}
